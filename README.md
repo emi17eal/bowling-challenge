@@ -1,5 +1,9 @@
+I was faced with a similar challenge in an interview, so I decided to complete it in full post-interview.
+![Basic UI](images/basic_UI_complete.png)
+I will make UI pretty at a later date. 
 
-Bowling Challenge
+
+Bowling Challenge: Emilio
 =================
 
 * Feel free to use google, your notes, books, etc. but work on your own
