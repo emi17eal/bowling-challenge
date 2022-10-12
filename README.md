@@ -1,5 +1,5 @@
 I was faced with a similar challenge in an interview, so I decided to complete it in full post-interview.
-![Basic UI](images/basic_UI_complete.png)
+![Basic UI](images/basic_UI_completed.png)
 I will make UI pretty at a later date. 
 
 
