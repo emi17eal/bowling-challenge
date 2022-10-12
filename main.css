@@ -1,0 +1,36 @@
+table, th, td {
+    border: 2px solid black;
+    border-collapse: collapse;
+    font-size: 20px;
+}
+
+td {
+    height: 50px;
+    width: 60px;
+    text-align: center;
+}
+
+th:first-child {
+    width: 250px;
+}
+
+tr:nth-child(3) td{
+    border-top: none;
+}
+
+tr:nth-child(2) td:first-child {
+    border: none;
+}
+
+tr:nth-child(2) td:nth-child(even) {
+    border-bottom: none;
+}
+
+tr:nth-child(2) td:last-child {
+    border-bottom: 2px solid black;
+}
+
+button {
+    width: 30px;
+    height: 30px;
+}
